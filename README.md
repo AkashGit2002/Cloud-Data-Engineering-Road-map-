@@ -1,7 +1,7 @@
 # Cloud-Data-Engineering-Road-map-
 Cloud Data Engineering Road map🎯💯
 
-Cloud Data Engineering Road map🎯💯
+
 ===================
 
 Any Cloud Platform AWS/Azure/GCP 📌
